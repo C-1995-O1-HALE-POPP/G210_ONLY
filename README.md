@@ -23,5 +23,3 @@
 
 #TEST#
 
-<iframe src="//player.bilibili.com/player.html?aid=32647141&bvid=BV1jW411S7RG&cid=57521743&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-
